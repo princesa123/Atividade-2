@@ -1,6 +1,6 @@
-# myapp
+# Atividade 2
 
-A new Flutter project.
+Código para atividade 2
 
 ## Getting Started
 
